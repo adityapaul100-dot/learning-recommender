@@ -1,0 +1,5 @@
+,Precision@5,Recall@5,NDCG@5,HitRate@5
+popularity,0.0781,0.311,0.1948,0.3701
+content,0.116,0.461,0.3205,0.5336
+collaborative,0.1084,0.4375,0.321,0.5009
+hybrid,0.1263,0.5023,0.3606,0.568
